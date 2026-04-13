@@ -34,6 +34,7 @@ The contract is designed to be secure, efficient, and easily integrable into dec
 
 ---
 CDBMHRZGTQ4XIFLHXJRQKUVYL75BXFYH4UX4DEC7KMJBVY3QHIFHLPPA
+https://stellar.expert/explorer/testnet/contract/CDBMHRZGTQ4XIFLHXJRQKUVYL75BXFYH4UX4DEC7KMJBVY3QHIFHLPPA
 
 ## ⚙️ Installation & Setup
 
